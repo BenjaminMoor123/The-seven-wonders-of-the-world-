@@ -1,0 +1,43 @@
+.beigeBkg{
+	background-color: beige ;
+}
+.blueBkg{
+	background-color:  #0ed5eb;
+}
+h1{
+	font-family: "Times new roman";
+	color: black;
+	font-size:60px;
+
+}
+h2{
+	font-family: courier;
+	color: #0ed5eb;
+	font-size:20px;
+
+}
+
+body{
+	background-color: #1d8708;
+}
+
+h3{
+	font-family: "Times new roman";
+	color: #f79e05;
+	font-size:60px;
+}
+h4{
+	font-family:monospace ;
+	color: #fff;
+	font-size:20px ;
+}
+h5{
+	font-family: unset;
+	color: #0ee2e6 ;
+	font-size: 30px;
+}
+h6{
+	font-family: "Times new roman";
+	color: #000;
+	font-size: 40px;
+}
